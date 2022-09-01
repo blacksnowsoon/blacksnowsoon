@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @blacksnowsoon
-- 👀 I’m interested in Web apps development, javaScript, Html, Css, Node.js
-- 🌱 I’m currently learning SEO, FullStack
+- 👋 Hi, I’m Gharieb Khalifa
+- 👀 I’m interested in Web development
+- 🌱 I’m currently A Front-End Dev & learning FullStack
 - 💞️ I’m looking to collaborate on agile project as developer
 - 📫 reach me theough blacksnow.soon@gmail.com
 
