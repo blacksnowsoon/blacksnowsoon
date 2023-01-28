@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gharieb Khalifa
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development and React-js
 - 🌱 I’m currently A Front-End Dev & learning FullStack
 - 💞️ I’m looking to collaborate on agile project as developer
 - 📫 reach me theough blacksnow.soon@gmail.com
