@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Gharieb khalifa</h1>
+<h1 align="left">Hi 👋! My name is Gharieb khalefa</h1>
 
 ###
 
