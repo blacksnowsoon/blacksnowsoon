@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">“I’m a Business Analyst, a Web developer with in-depth experience in the business life cycle and Web App designs. In a nutshell, I create websites that help organizations address business challenges and meet their needs. I manage everything from website navigation and layout to a company’s web hosting and security architecture. My expertise lies within front-end web apps, and the main languages in my tech stack are JavaScript, React, and HTML/CSS. I’m a lifelong learner (currently taking a course on building Desktop apps with electron!) and love to read, run, and find new bubble coffee shops around.” 🚀🌐</p>
+<p align="left">“I’m a Business Analyst, a Web developer with in-depth experience in the business life cycle and Web App designs. In a nutshell, I create a web apps help organizations address business challenges and meet their needs. I manage everything from business plans, document flow, app design, configrution, self hosting and security architecture. My expertise lies within web apps using [frappe framework, html, css, javascript, React, python,SQL, MariaDb ]. Documention is everything so don't stop reading.” 🚀🌐</p>
 
 ###
 
