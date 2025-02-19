@@ -1,10 +1,10 @@
-<h1 align="left">Hi 👋! My name is Gharieb khalefa</h1>
+<h1 align="left">Hi 👋! My name is Gharieb khalifa</h1>
 
 ###
 
 <br clear="both">
 
-<p align="left">“I’m a Business Analyst, a Web developer with in-depth experience in the business life cycle and Web App designs. In a nutshell, I create a web apps help organizations address business challenges and meet their needs. I manage everything from business plans, document flow, app design, configrution, self hosting and security architecture. My expertise lies within web apps using [frappe framework, html, css, javascript, React, python,SQL, MariaDb ]. Documention is everything so don't stop reading.” 🚀🌐</p>
+<p align="left">“A Business Analyst, & Web developer with in-depth experience in the business life cycle and Web App designs. In a nutshell, I create web apps to help organizations address business challenges and meet their needs. I manage everything from business plans, document flow, app design, configuration, self-hosting, and security architecture. My expertise lies within web apps using [frappe framework, HTML, CSS, javascript, React, Python, SQL, MariaDB]. Documentation is everything so don't stop reading.” 🚀🌐</p>
 
 ###
 
