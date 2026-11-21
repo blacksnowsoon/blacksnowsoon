@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">“A Business Analyst, & Web developer with in-depth experience in the business life cycle and Web App designs. In a nutshell, I create web apps to help organizations address business challenges and meet their needs. I manage everything from business plans, document flow, app design, configuration, self-hosting, and security architecture. My expertise lies within web apps using [frappe framework, HTML, CSS, javascript, React, Python, SQL, MariaDB]. Documentation is everything so don't stop reading.” 🚀🌐</p>
+<p align="left">“Business Systems Analyst and Application Support professional with experience translating operational needs into system changes within a live Port Management System (PMS) environment. Skilled in requirements elicitation, AS-IS workflow analysis, process improvement, functional analysis, acceptance criteria, and coordination across business, development, and QA teams. Experienced in managing change requests and bug reports through delivery, facilitating client review of workflow and UI changes, and validating outcomes in QA/UAT and production. Brings practical technical understanding of APIs, databases, integrations, and enterprise applications, supporting clear communication between operational stakeholders and technical teams.” 🚀🌐</p>
 
 ###
 
